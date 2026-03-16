@@ -1,11 +1,26 @@
+aid: jax-ws
 name: JAX-WS
-description: JAX-WS is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  JAX-WS (Java API for XML Web Services) is a Java programming language API
+  for creating web services, particularly SOAP-based web services. It is part
+  of the Java EE platform and provides tools and APIs for building and
+  consuming XML-based web services.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- JAX-WS
-created: '2025'
-modified: '2025'
+  - JAX-WS
+  - Java
+  - Web Services
+  - SOAP
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/jax-ws/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://jakarta.ee/specifications/xml-web-services/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
