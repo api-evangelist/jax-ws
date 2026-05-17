@@ -83,7 +83,7 @@ common:
     url: https://jakarta.ee/specifications/xml-web-services/
   - type: Documentation
     url: https://jakarta.ee/specifications/xml-web-services/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/jakartaee
 maintainers:
   - FN: Kin Lane
