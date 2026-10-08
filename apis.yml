@@ -115,6 +115,12 @@ apis:
       - type: GitHub
         url: https://github.com/apache/cxf
 common:
+  - type: Plans
+    url: plans/jax-ws-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/jax-ws-rate-limits.yml
+  - type: FinOps
+    url: finops/jax-ws-finops.yml
   - type: DomainSecurity
     url: security/jax-ws-domain-security.yml
   - type: Website
